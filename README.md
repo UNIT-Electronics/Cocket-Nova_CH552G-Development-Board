@@ -16,8 +16,35 @@ This board is great for beginners dipping their toes into microcontrollers and D
 - Zadig Software
 - CH372DRV Driver
 
-## Main Features
+## Key Features 📝
 
-- Powered by CH552 Microcontroller
-- Internal USB transceiver which allows programming via USB type C
-- Powered by 5V or 3.3V with a voltage selector
+- Runs on CH552 Microcontroller
+- Built-in USB transceiver enables programming via USB type C
+- Operates on either 5V or 3.3V with selectable voltage
+- Incorporates LED on pin 3.4
+- Includes Neopixel LED on pin 3.3
+- Equipped with two headers for additional Neopixels
+- Compatible with standard breadboards
+- Features two 1mm JST connectors supporting QWIIC and STEMMA QT protocols
+
+## Technical Features 🚀
+
+- e8051 Core supported by the instruction set of MCS51
+- 🧠 Memory:
+  - 16 KB ROM, it clould be divided in 14 KB for programm and 2 KB for bootoader or ISP programming
+  - 128 bytes for flash memory
+  - 256 bytes of internal RAM
+- 💻 Peripheral:
+  - 2 outputs for 8 bit PWM 
+  - 4 channels for 8 bit ADC
+  - 6 capacitance detección channels, it supports until 15 touch buttons
+  - 17 GPIOS
+  - 14 groups of interruptions and an 8 bit Watch Dog timer
+  - External reset and boot buttons
+  - External clock signal through multiplexing GPIOS
+- 🔌 USB:
+  - Internal USB controller and transceiver, it allows programming via USB without external controllers
+  - USB 2.0 support at maximum 12 mbps
+- ⚡ Energy:
+  - Power supply voltage of 5V or 3.3V
+  - It could be powered by voltage between 2.8V and 3.5V
