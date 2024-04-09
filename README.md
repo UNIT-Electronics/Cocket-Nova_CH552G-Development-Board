@@ -87,3 +87,7 @@ The material was assembled by the UNIT Electronics Team.
 
 - <a href="https://github.com/AlbertoVillanuevaEsquivel">Alberto Villanueva: </a> Hardware design.
 - <a href="https://github.com/Cesarbautista10">Cesar Bautista:</a> Software design.
+
+<hr>
+
+⌨️ With ❤️ by <a href="www.uelectronics.com">UNIT Electronics </a>
