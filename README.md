@@ -67,7 +67,7 @@ This board is great for beginners dipping their toes into microcontrollers and D
 
 To learn more about how to begin using Cocket-Nova, please check out the user manual. You can download it from this :point_right: **link** 👈.
 
-Additionally, we offer a course on programming this development board. Find it right :point_right: <a href=" https://unit-electronics.github.io/CH552_Curso_introductorio/">**here**</a> 👈. The course includes examples demonstrating how to explore Cocket Nova's capabilities.
+Additionally, we offer a course on programming this development board. Find it right :point_right: <a href="https://unit-electronics.github.io/CH552_Curso_introductorio/">**here**</a> 👈. The course includes examples demonstrating how to explore Cocket Nova's capabilities.
 
 ## Contributions Welcome! 🙌
 
