@@ -70,19 +70,15 @@ To learn more about how to begin using Cocket-Nova, please check out the followi
 
 1. **[Manual](link)**: Check out the user manual 👈.
 
-2. Courses. This course provides a comprehensive introduction to programming the Cocket Nova development board using the Arduino IDE. It includes examples and demonstrations to help you explore the board's capabilities effectively.
+2.  **[Cocket Nova & Arduino IDE](https://unit-electronics.github.io/CH552_Curso_introductorio/)**: This course provides a comprehensive introduction to programming the Cocket Nova development board using the Arduino IDE. It includes examples and demonstrations to help you explore the board's capabilities effectively.
 
 - **[Introducción al CH552](https://github.com/UNIT-Electronics/CH552_Curso_introductorio?tab=readme-ov-file)**
 
-- **[Cocket Nova & Arduino IDE](https://github.com/UNIT-Electronics/CH552_Curso_introductorio?tab=readme-ov-file)**
+3. **[Cocket Nova Getting Started Guide](https://github.com/UNIT-Electronics/CH55x_SDCC_Doc)**: A manual for using the SDCC compiler with the CH55x microcontroller. It helps users explore features, start projects, and configure settings. Compatible with Cocket Nova CH552 boards for easy and innovative project implementation.
 
-3.  **[Cocket Nova & Arduino IDE](https://unit-electronics.github.io/CH552_Curso_introductorio/)**: This course provides a comprehensive introduction to programming the Cocket Nova development board using the Arduino IDE. It includes examples and demonstrations to help you explore the board's capabilities effectively.
+4. **[Cocket Nova CH552 Examples using SDCC](https://github.com/UNIT-Electronics/CH55x_SDCC_Examples)**: Examples for CH55x microcontroller development in C with the SDCC compiler. Covers various topics including Blink, ADC, PWM, Timer, Interrupts, and I2C. Updated regularly to improve project development.
 
-4. **[Cocket Nova Getting Started Guide](https://github.com/UNIT-Electronics/CH55x_SDCC_Doc)**: A manual for using the SDCC compiler with the CH55x microcontroller. It helps users explore features, start projects, and configure settings. Compatible with Cocket Nova CH552 boards for easy and innovative project implementation.
-
-5. **[Cocket Nova CH552 Examples using SDCC](https://github.com/UNIT-Electronics/CH55x_SDCC_Examples)**: Examples for CH55x microcontroller development in C with the SDCC compiler. Covers various topics including Blink, ADC, PWM, Timer, Interrupts, and I2C. Updated regularly to improve project development.
-
-6. **[ue_loadupch_Loader_Firmware](https://github.com/UNIT-Electronics/ue_loadupch_Loader_Firmware)**: A project dedicated to uploading firmware to the CH552 microcontroller. Designed for compatibility with the Cocket Nova development board, it features a simple design and uses a USB communication interface, developed with Python 3.9 for use on both Windows and Linux platforms.
+5. **[ue_loadupch_Loader_Firmware](https://github.com/UNIT-Electronics/ue_loadupch_Loader_Firmware)**: A project dedicated to uploading firmware to the CH552 microcontroller. Designed for compatibility with the Cocket Nova development board, it features a simple design and uses a USB communication interface, developed with Python 3.9 for use on both Windows and Linux platforms.
 
 Feel free to explore these resources to get the most out of your Cocket Nova development board!
 
