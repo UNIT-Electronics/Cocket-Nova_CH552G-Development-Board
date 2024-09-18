@@ -6,15 +6,15 @@
 
 # Power Tree
 
-<img src="Resources/CocketNova-Power-Tree-V1.2.jpg?raw=false" width="1000px"><br/>
+<img src="Resources/CocketNova-Power-Tree-V1.2.jpg?raw=false" width="800px"><br/>
 
 # Block Diagram
 
-<img src="Resources/CocketNova-Block Diagram.jpg?raw=false" width="800px"><br/>
+<img src="Resources/CocketNova-Block Diagram.jpg?raw=false" width="600px"><br/>
 
 # Pinout
 
-<img src="UE0025-CocketNova-Pinout.jpg?raw=false" width="1000px"><br/>
+<img src="Resources/UE0025-CocketNova-Pinout.jpg?raw=false" width="1000px"><br/>
 
 # Board Topology
 
