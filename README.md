@@ -1,6 +1,6 @@
 # Cocket-Nova_CH552G-Development-Board
 
-<a href="https://uelectronics.com"><img src="Docs/IMG-0001.png?raw=false" width="800px"><br/>
+<a href="https://uelectronics.com"><img src="Docs/IMG-0001.png?raw=false" width="400px"><br/>
 *Click here to purchase one from the UNIT Electronics shop*</a>
 
 Explore the amazing features of the Cocket Nova development board, which runs on the CH552G microcontroller. This handy board makes it easy to kickstart your embedded projects.
