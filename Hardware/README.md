@@ -6,11 +6,11 @@
 
 # Power Tree
 
-<img src="Resources/CocketNova-Power-Tree-V1.2.jpg?raw=false" width="800px"><br/>
+<img src="Resources/CocketNova-Power-Tree-V1.2.jpg?raw=false" width="650px"><br/>
 
 # Block Diagram
 
-<img src="Resources/CocketNova-Block Diagram.jpg?raw=false" width="600px"><br/>
+<img src="Resources/CocketNova-Block Diagram.jpg?raw=false" width="650px"><br/>
 
 # Pinout
 
@@ -46,8 +46,6 @@
 |  SB6  | SDA Signal Selector Solder Bridge forATECC608A-MAHDA-T (default disconnected)|   B1  | Lipo Battery Solder Pads |
 
 
-
-[C++ & Micropython Examples files for the UNIT DualMCU.](https://github.com/UNIT-Electronics/DualMCU/tree/main/Examples) 
 
 For more details, check out the product pages at
 * https://uelectronics.com/
