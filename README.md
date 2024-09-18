@@ -1,4 +1,8 @@
 # Cocket-Nova_CH552G-Development-Board
+
+<a href="https://uelectronics.com"><img src="Docs/IMG-0001.png?raw=false" width="800px"><br/>
+*Click here to purchase one from the UNIT Electronics shop*</a>
+
 Explore the amazing features of the Cocket Nova development board, which runs on the CH552G microcontroller. This handy board makes it easy to kickstart your embedded projects.
 
 It fits perfectly onto standard breadboards and can be programmed via USB Type C. Plus, it comes with a built-in Neopixel LED at pin 3.3 and two header outputs for extra Neopixels. You'll also find features like an LED at pin 3.4, reset and boot buttons, a power supply selector, and two 1mm JST connectors that support QWIIC, STEMMA QT protocols, and more.

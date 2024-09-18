@@ -2,19 +2,19 @@
 # Hadware [Cocket Nova](https://github.com/UNIT-Electronics/Cocket-Nova_CH552G-Development-Board) 
 
 
-<a href="https://github.com/UNIT-Electronics/DualMCU/blob/main/Hardware/UE0002_DualMCUv30_Schematic.pdf"><img src="Resources/Schematics_icon.jpg?raw=false" width="500px"><br/> Schematics</a>
+<a href="https://github.com/UNIT-Electronics/Cocket-Nova_CH552G-Development-Board/tree/main/Hardware/UE0025_Cocket-Nova_Schematic.pdf"><img src="Resources/Schematics_icon.jpg?raw=false" width="500px"><br/> Schematics</a>
 
 # Power Tree
 
-<img src="Resources/DUALMCU-PowerTree.jpg?raw=false" width="1000px"><br/>
+<img src="Resources/CocketNova-Power-Tree-V1.2.jpg?raw=false" width="1000px"><br/>
 
 # Block Diagram
 
-<img src="Resources/Block Diagram.jpg?raw=false" width="800px"><br/>
+<img src="Resources/CocketNova-Block Diagram.jpg?raw=false" width="800px"><br/>
 
 # Pinout
 
-<img src="Resources/EU0002-DUALMCU V3.1.2.jpg?raw=false" width="1000px"><br/>
+<img src="UE0025-CocketNova-Pinout.jpg?raw=false" width="1000px"><br/>
 
 # Board Topology
 
