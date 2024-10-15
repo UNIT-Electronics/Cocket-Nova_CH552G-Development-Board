@@ -72,7 +72,7 @@ This board is great for beginners dipping their toes into microcontrollers and D
 
 To learn more about how to begin using Cocket-Nova, please check out the following resources:
 
-1. **[Manual](link)**: Check out the user manual 👈.
+1. **[Manual](https://github.com/UNIT-Electronics/Cocket-Nova_CH552G-Development-Board/blob/main/Cocket%20Nova%20Product%20Reference%20Manual%20%5BES%5D.pdf)**: Check out the user manual 👈.
 
 2.  **[Cocket Nova & Arduino IDE](https://unit-electronics.github.io/CH552_Curso_introductorio/)**: This course provides a comprehensive introduction to programming the Cocket Nova development board using the Arduino IDE. It includes examples and demonstrations to help you explore the board's capabilities effectively. [**[Introducción al CH552](https://github.com/UNIT-Electronics/CH552_Curso_introductorio?tab=readme-ov-file)**]
 
