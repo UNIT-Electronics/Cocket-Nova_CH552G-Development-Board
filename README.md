@@ -41,7 +41,7 @@ This board is great for beginners dipping their toes into microcontrollers and D
   - 2 outputs capable of 8-bit PWM generation.
   - 4 channels dedicated to 8-bit ADC functionality.
   - 6 capacitance detection channels supporting up to 15 touch buttons.
-  - 17 GPIOs for versatile interfacing.
+  - 12 GPIOs for versatile interfacing.
   - 14 groups of interruptions along with an 8-bit Watch Dog timer.
   - External reset and boot buttons provided for system control.
   - External clock signal reception via multiplexing GPIOs.
